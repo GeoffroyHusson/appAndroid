@@ -166,6 +166,7 @@
     <string name="confirmPWD">Confirmer le mot de passe</string>
     <string name="connection">Connexion</string>
     <string name="email">E-mail</string>
+    <string name="failed">Echec</string>
     <string name="firstname">Prénom</string>
     <string name="inscription">Inscription</string>
     <string name="listminut">Listminut</string>

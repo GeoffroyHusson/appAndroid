@@ -14,5 +14,8 @@
     <string name="firstname">Prénom</string>
     <string name="register">Enregistrement gratuit</string>
     <string name="title_activity_inscription_page">Page inscription</string>
+    <string name="failed">Echec</string>
+
+    <!-- Requêtes sql -->
 
 </resources>

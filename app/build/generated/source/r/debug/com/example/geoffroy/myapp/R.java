@@ -1437,14 +1437,15 @@ containing a value of this type.
         public static final int confirmPWD=0x7f0a0012;
         public static final int connection=0x7f0a0013;
         public static final int email=0x7f0a0014;
-        public static final int firstname=0x7f0a0015;
-        public static final int inscription=0x7f0a0016;
-        public static final int listminut=0x7f0a0017;
-        public static final int logo=0x7f0a0018;
-        public static final int pwd=0x7f0a0019;
-        public static final int register=0x7f0a001a;
-        public static final int secondname=0x7f0a001b;
-        public static final int title_activity_inscription_page=0x7f0a001c;
+        public static final int failed=0x7f0a0015;
+        public static final int firstname=0x7f0a0016;
+        public static final int inscription=0x7f0a0017;
+        public static final int listminut=0x7f0a0018;
+        public static final int logo=0x7f0a0019;
+        public static final int pwd=0x7f0a001a;
+        public static final int register=0x7f0a001b;
+        public static final int secondname=0x7f0a001c;
+        public static final int title_activity_inscription_page=0x7f0a001d;
     }
     public static final class style {
         /**  Customize your theme here. 

@@ -9,6 +9,13 @@
         <dex dex="C:\Users\Geoffroy\AndroidStudioProjects\MyApp\app\build\intermediates\pre-dexed\debug\classes-57cf0676bd3640e30c53abc8edc5391c6e16b068.jar" />
     </item>
     <item
+        jar="C:\Users\Geoffroy\AndroidStudioProjects\MyApp\app\libs\postgresql-9.4-1200.jdbc4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3b12ae82020d82a66e873e1a6a1538392da4774">
+        <dex dex="C:\Users\Geoffroy\AndroidStudioProjects\MyApp\app\build\intermediates\pre-dexed\debug\postgresql-9.4-1200.jdbc4-916d566857919f76a41d9d1083906dafdb5d837c.jar" />
+    </item>
+    <item
         jar="C:\Users\Geoffroy\AndroidStudioProjects\MyApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
