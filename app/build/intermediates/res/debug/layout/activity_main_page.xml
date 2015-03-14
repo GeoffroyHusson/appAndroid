@@ -9,4 +9,10 @@
         android:text="Connexion avec succès !!! "
         android:id="@+id/textView"
         android:layout_gravity="center_vertical" />
+
+    <include
+        android:id="@+id/tool_bar"
+        layout="@layout/tool_bar">
+    </include>
 </LinearLayout>
+<!-- From: file:/C:/Users/Geoffroy/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_page.xml -->
